@@ -1,0 +1,43 @@
+*{
+    font-family: 'Roboto';
+}
+
+.header, .footer{
+    background-color: #1f2937;
+}
+
+h1 {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+.section1 p, .header li{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.header h3{
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.section4, button{
+    background-color: #3882f6;
+}
+
+h2 {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+}
+
+.section3{
+    background-color: #e5e7eb;
+}
+
+em{
+    font-size: 36px;
+    font-style: light italic;
+    color: #1f2937;
+}
